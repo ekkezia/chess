@@ -44,15 +44,15 @@ The OSC values have been adjusted to match **Arturia MIDI Controller**
   - 8: 31
 
 **CONTROLLING CHESS PIECE DIRECTIONS**
->> UP LEFT: 62
->> UP: 64
->> UP RIGHT: 65
->> LEFT: 68
->> RIGHT: 69
->> DOWN LEFT: 70
->> DOWN: 71
->> DOWN RIGHT: 72
+  - UP LEFT: 62
+  - UP: 64
+  - UP RIGHT: 65
+  - LEFT: 68
+  - RIGHT: 69
+  - DOWN LEFT: 70
+  - DOWN: 71
+  - DOWN RIGHT: 72
 
 **CHANGING PIECES COLOR**
->> WHITE: 36
->> BLACK: 37
+  - WHITE: 36
+  - BLACK: 37
